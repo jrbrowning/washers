@@ -1,0 +1,27 @@
+{
+  "name": "website-template-helper",
+  "version": "1.0.0",
+  "description": "A helper NPM package for setting up a CSS/JS wrapper ENV.   The objective is to create a repo that will install all the linting tools (and browsersync, css postfix, uglify)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrbrowning/website-template-helper.git"
+  },
+  "keywords": [
+    "sublime",
+    "css",
+    "js"
+  ],
+  "author": "jeff browning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrbrowning/website-template-helper/issues"
+  },
+  "homepage": "https://github.com/jrbrowning/website-template-helper#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  }
+}
