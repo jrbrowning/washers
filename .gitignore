@@ -1,3 +1,9 @@
+
+## This is a copy from the file at https://github.com/github/gitignore/blob/master/Node.gitignore.   
+## Not smart enought yet to properly link the github version to my repo...so including a hard copy to just keep moving.
+
+*~
+
 # Logs
 logs
 *.log
@@ -56,4 +62,9 @@ typings/
 
 # dotenv environment variables file
 .env
+
+=======
+# generated files
+dist/
+public/
 
